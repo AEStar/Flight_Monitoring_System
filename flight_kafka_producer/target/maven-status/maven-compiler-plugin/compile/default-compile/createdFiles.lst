@@ -1,4 +1,0 @@
-com/flight/app/kafka/util/PropertyFileReader.class
-com/flight/app/kafka/util/FlightDataSerializer.class
-com/flight/app/kafka/producer/FlightDataProducer.class
-com/flight/app/kafka/model/FlightData.class
