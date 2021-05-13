@@ -1,0 +1,4 @@
+/home/aestar/IdeaProjects/flight_traffic/flight_kafka_producer/src/main/java/com/flight/app/kafka/producer/FlightDataProducer.java
+/home/aestar/IdeaProjects/flight_traffic/flight_kafka_producer/src/main/java/com/flight/app/kafka/util/FlightDataSerializer.java
+/home/aestar/IdeaProjects/flight_traffic/flight_kafka_producer/src/main/java/com/flight/app/kafka/model/FlightData.java
+/home/aestar/IdeaProjects/flight_traffic/flight_kafka_producer/src/main/java/com/flight/app/kafka/util/PropertyFileReader.java
